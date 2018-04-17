@@ -1,0 +1,23 @@
+#Tue Apr 12 08:46:23 CDT 2016
+modelo=SSPV
+database=localhost
+posicionX=38
+posicionY=350
+dimensionX=760
+dimensionY=695
+longBTR=80
+longLF=512
+longPPI=80
+timeSend=2000
+LFlimYup=0
+LFlimYdw=-100
+dirSSPV=192.168.1.10
+portBTR=30000
+portLF=30000
+portPPI=30000
+portConxSPV=30000
+portConxSPV=30000
+posicionXConx=668
+posicionYConx=273
+dimensionXConx=215
+dimensionYConx=50
